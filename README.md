@@ -9,7 +9,6 @@
 	* [Usage](#usage)
 	* [License](#license)
 	* [Contributing](#contributing)
-	* [Tests](#tests)
 	* [Questions](#questions)
 
 ## Installation
@@ -23,3 +22,12 @@
 	```
 	node index.js
 	```
+
+## License
+	This project is licensed under the MIT license.
+
+## Contributing
+Angel Zavaleta
+
+## Questions
+	If you have any questions about the repo, open an issue or contact me directly at angelzavaleta541@gmail.com.

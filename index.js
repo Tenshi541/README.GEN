@@ -82,15 +82,15 @@ ${data.description}
 ${generateTOC()}
 
 ## Installation
-
+${data.installation}
 ## Usage
-
+${data.usage}
 # License
 
 ## Contributing 
-
+${data.contributions}
 ## Questions
-  ${generateQuestions()}
+${data.Questions}
   
 ## License
 This app is covered by this License ${generateBadge(data.license)}
