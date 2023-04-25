@@ -30,5 +30,4 @@
 Angel Zavaleta
 
 ## Questions
-file:///Users/angel/Downloads/Untitled_%20Apr%2024,%202023%206_14%20PM.webm
 	If you have any questions about the repo, open an issue or contact me directly at angelzavaleta541@gmail.com.
