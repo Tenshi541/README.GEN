@@ -1,9 +1,9 @@
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
-# era
+# ReadMEE
 
 ## Description
-nothing
+Nothing
 
 ## Table of Contents
 Installation(#installation),
@@ -20,11 +20,11 @@ none
 # License
 
 ## Contributing 
-angel
+Angel Zavaleta
 ## Questions
 Tenshi541
   
 ## License
-This app is covered by this License [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+This app is covered by this License [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
     
     
